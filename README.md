@@ -7,4 +7,6 @@ Feature Variables: model, year, transmission, mileage, fuelType, mpg and engineS
 
 Target Variable: price 
 
-For homework 2, two categorical variables were chosen and visualized using barplot and piechart. 
+For homework 2, two categorical variables were chosen and visualized using barplot and piechart.
+
+For homework 3, two scatterplots and regression plots were created using numeric columns of the datasets. Pair plots were also created and analyzed. Categorical variables were incorporated as hue where it was deemed necessary.
