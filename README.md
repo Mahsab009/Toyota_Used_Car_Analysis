@@ -13,5 +13,5 @@ For homework 3 (Module 2), two scatterplots and regression plots were created us
 
 For homework 4 (Module 4), two histograms, boxplots and violin plots were plotted and compared, in regards to the data they can and can't provide.
 
-# Toyota Used Car Machine Learning Price Prediction
+# Toyota_Used_Car_Machine_Learning_Price_Prediction
 For homework 1 (module 4), a simple ML model (Linear Regression) was implemented to predict the target variable (price) using four numeric feature variables (mileage, mpg, year, enginesize). In addition, key performance indicators (KPI) were used to evaluate the efficiency of the linear regression model. 
